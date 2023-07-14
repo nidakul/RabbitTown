@@ -6,7 +6,7 @@ The user can make the character jump by pressing the spacebar. If the user press
 The game can be played on Android mobile devices.
 
 #Main Menu
-!(https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.35.png?raw=true)
+![image](https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.35.png?raw=true)
 
 
 

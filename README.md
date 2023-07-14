@@ -12,13 +12,14 @@ The game can be played on Android mobile devices.
 ![image](https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.09.png?raw=true)
 
 #Game
-![image][https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.44.png?raw=true]
+![image](https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.44.png?raw=true)
+![image](https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.56.png?raw=true)
 
-![image][https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.56.png?raw=true]
+![image](https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.22.png?raw=true)
 
-![image][https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.33.22.png?raw=true]
+![image](https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.34.08.png?raw=true)
 
-![image][https://github.com/nidakul/RabbitTown/blob/main/images/Ekran%20Resmi%202023-07-15%2000.34.08.png?raw=true]
+
 
 
 
